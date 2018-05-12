@@ -29,6 +29,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36391
     wikipedia: http://fr.wikipedia.org/wiki/Antoine_Fureti%C3%A8re
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33414#Le-roman-bourgeois--Ouvrage-comique
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2010-08-12'
 gutenberg_type: Text
